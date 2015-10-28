@@ -1,0 +1,6 @@
+acqua mangiato 0.40
+pasta dececco 1.7
+pasta barilla 1.5
+acqua recoaro 0.23
+bibita cocacola 1.0
+bibita fanta 1.0
