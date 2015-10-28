@@ -4,7 +4,7 @@ I sorgenti sono accompagnati da i vari testi delle prove.
 
 # Not the best way...
 Si, i sorgenti non sono perfetti, ciò è dovuto a due fattori:
-- Il codice è stato scritto di getto. Essendo esercitazioni sono state svolte cronometrando un tempo di 1h a prova.
+- Il codice è stato scritto di getto. Essendo esercitazioni sono state svolte cronometrando un tempo max di 1h a prova.
 - È da considerarsi il mio primo approccio al linguaggio.
 
 # License
